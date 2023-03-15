@@ -1,3 +1,13 @@
+# Project Contains the follwing pages
+
+- User Dashboard
+- User New Ticket
+- User My ticket
+- User Profile and Feedback
+- Sign In Page
+- Sign Up Page
+- Forgot Password Page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
