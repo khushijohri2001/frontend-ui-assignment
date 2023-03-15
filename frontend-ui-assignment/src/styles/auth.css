@@ -1,0 +1,49 @@
+.auth-container{
+    height:100%;
+    background-color: var(--primary-color);
+   
+}
+.auth-sub-container{
+    background-color: var(--secondary-color);
+    padding: 3rem;
+}
+
+.sign-up-padding{
+    padding:10rem;
+}
+.sign-in-padding{
+    padding:13rem;
+}
+
+.forgot-password-padding{
+    padding:13rem;
+}
+
+.inner-padding{
+    padding: 3rem 18rem;
+}
+.input-container input{
+    padding:10px;
+    width: 18rem;
+}
+.auth-btn{
+    width: 11rem;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+
+}
+.sign-in-btn{
+    background-color: var(--green);
+    color: var(--white);
+}
+
+.forgot-password{
+    color: var(--red);
+}
+
+.sign-up-btn{
+    background-color: var(--blue);
+    color: var(--white);
+}

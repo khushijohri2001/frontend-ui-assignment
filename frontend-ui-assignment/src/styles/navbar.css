@@ -1,0 +1,15 @@
+.nav-container{
+    width: auto;
+    height: 90px;
+    background-color: var(--primary-color);
+    padding: 0 20px;
+}
+
+.nav-container h1{
+    color: var(--white);
+    font-size: 40px;
+}
+
+.nav-container img{
+    height: 25px;
+}
